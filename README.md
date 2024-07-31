@@ -4,7 +4,7 @@ I am a dedicated web designer with experience in low-code website development an
 
 In addition, I work as a software engineering intern, where I apply my knowledge of various programming tools to solve complex problems and continuously improve my technical skills.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisxxfelipe&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisxxfelipe&layout=pie)](https://github.com/luisxxfelipe/github-readme-stats)
 
 # Programming Languages I’m Skilled In:
 
