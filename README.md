@@ -5,7 +5,7 @@ I am a dedicated web designer with experience in low-code website development an
 In addition, I work as a software engineering intern, where I apply my knowledge of various programming tools to solve complex problems and continuously improve my technical skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisxxfelipe)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisxxfelipe&show_icons=true&theme=transparent)
 
 # Programming Languages I’m Skilled In:
 
